@@ -2,6 +2,8 @@
 
 A robust Machine Learning web application designed to predict health insurance premiums based on user demographics, health history, and policy preferences.
 
+![Lead Time Analysis](streamlit_ui.png)
+
 ## 🧠 Project Overview
 
 The **Smart-Health-Insurance-Cost-Predictor** solves the challenge of non-linear pricing in insurance. Insurance costs often behave differently for young adults compared to older demographics due to risk factors. To address this, this project employs a **Hybrid Model Strategy**:
